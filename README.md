@@ -451,7 +451,3 @@ git push -u origin main
 ## Observacoes de privacidade
 
 Curriculos contem dados pessoais. Antes de usar esta aplicacao com documentos reais, garanta que o usuario autorizou o envio do texto extraido para um provedor externo de IA.
-
-## Licenca
-
-Defina uma licenca antes de publicar o repositorio. Para projetos abertos, uma opcao comum e `MIT`.
